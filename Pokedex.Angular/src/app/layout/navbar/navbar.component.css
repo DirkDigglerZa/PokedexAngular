@@ -1,0 +1,18 @@
+.pokedex{
+    width: 67px;
+    height: 64px;
+    background: url(../../../assets/sprites/heartgold-soulsilver.png) 0 0;
+}
+.nav {
+    height:80px !important;
+    background-color: rgb(107, 179, 224);
+    color:white;
+}
+.nav-link {
+    color:white;
+    padding-top:23px;
+    font-size: 20px;
+}
+.has-hover:hover{
+    background: rgba(105, 160, 197, 0.933);
+}
